@@ -15,4 +15,4 @@ This repository contains a Python implementation of a Checkers game with an AI o
 
    ```bash
    git clone https://github.com/Akshay-Bhalala/AI-Projects.git
-   cd ai-checkers-game
+   cd AI-Projects
