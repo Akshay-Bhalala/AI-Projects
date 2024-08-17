@@ -27,6 +27,5 @@ The match summary will be updated automatically to reflect the total overs, runs
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/Akshay-Bhalala/T20_Cricket.git
-   cd T20_Cricket
-
+   git clone https://github.com/Akshay-Bhalala/AI-Projects.git
+   cd AI-Projects
