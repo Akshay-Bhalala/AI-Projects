@@ -11,6 +11,15 @@
 - **Real-Time Statistics**: Receive instant updates on the progress of the match.
 - **Match Summary**: Access a comprehensive overview of match details.
 
+## Usage
+- **Track Overs :**
+Click on the "Add Over" button to increment the number of overs bowled.
+- **Update Scores :**
+Enter the number of runs and wickets in the provided input fields.
+Click "Update Score" to record the current match status.
+- **View Summary :**
+The match summary will be updated automatically to reflect the total overs, runs, and wickets.
+
 ## Installation
 
 ### Steps
